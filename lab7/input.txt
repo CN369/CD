@@ -1,0 +1,5 @@
+E aA
+E (E)
+A +E
+A *E
+A #

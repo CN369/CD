@@ -1,0 +1,5 @@
+Hello ;
+This is the Input File for Program 2 of lab3.
+my rollno is 37
+10+20=30
+10<=20
